@@ -9,7 +9,7 @@
         <p>Structor is a 2D pixel art strategy builder game where the player needs to build a circuit with a set amount of cards. In the game, player are tasked to keep up with increasing quotas by buying different cards, getting upgrades, and strategizing the wire configuration that will yield the highest points.</p>
         <p><a href="https://github.com/Steven111105/Structor">Go To Repository Page</a></p>
         <p><a href="https://steven111105.itch.io/structor">Go To Itch.io Page</a></p>
-        <h2>Submission for GameToday2025</h2>
+        <h2>3rd Place GameToday2025</h2>
         <p>Nhoel M. K. D. Goei - Game Designer</p>
         <p>Steven Wijaya (Me) - Game Programmer</p>
         <p>Leonardi - 2D Game Artist</p>
