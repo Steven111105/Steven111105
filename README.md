@@ -1,11 +1,12 @@
 # Hi there, I'm Steven Wijaya 👋
-## Im a game programmer from Binus University. I mainly use Unity and C# to develop games
+<p>Im a game programmer from Binus University. I mainly use Unity and C# to develop games. I enjoy making arcade style games with unique gameplays</p>
+
 ---
-# My Projects
+# 🎮 My Projects (GIFs might take a bit to load)
   <table width="100%">
     <tr>
       <th width="50%" height="400" valign="top"><h1>🔋Structor</h1>
-        <img width="100%" alt="486676140-2071763e-3804-45ee-ba17-01b417498cbf" src="https://github.com/user-attachments/assets/fcb0ed33-0f21-46b0-9393-03291668775b" />
+        <img width="100%" alt="486676140-2071763e-3804-45ee-ba17-01b417498cbf" src="https://github.com/user-attachments/assets/5a67469b-48c4-4cc0-b184-270ea834b0f7" />
         <p>Structor is a 2D pixel art strategy builder game where the player needs to build a circuit with a set amount of cards. In the game, player are tasked to keep up with increasing quotas by buying different cards, getting upgrades, and strategizing the wire configuration that will yield the highest points.</p>
         <p><a href="https://github.com/Steven111105/Structor">Go To Repository Page</a></p>
         <p><a href="https://steven111105.itch.io/structor">Go To Itch.io Page</a></p>
@@ -15,7 +16,7 @@
         <p>Leonardi - 2D Game Artist</p>
       </th>
       <th width="50%" height="400" valign="top"><h1>🐇SpaceBun</h1>
-        <img width="100%" src="https://github.com/user-attachments/assets/2e90a9ae-c402-4e76-bff2-978c7eea2512" />
+        <img width="100%" alt="https://github.com/user-attachments/assets/fcb0ed33-0f21-46b0-9393-03291668775b" src="https://github.com/user-attachments/assets/2e90a9ae-c402-4e76-bff2-978c7eea2512" />
         <p>Help bunnies in space to cross between planets and avoid stellar object. Buy space-traffic facilities and reach certain score to unlock stories every level. See yourself the importance of traffic facilities on pedestrian crossing, while learning its uses in a cute and fun way!</p>
         <p><a href="https://github.com/Steven111105/Spacebun">Go To Repository Page</a></p>
         <p><a href="https://steven111105.itch.io/spacebun">Go To Itch.io Page</a></p>
@@ -47,3 +48,12 @@
       </th>
     </tr>
   </table>
+
+---
+# 😃 My Contact
+<b>
+<li>Itch.io: <a halign="left" valign="center" width="32%" href="https://steven111105.itch.io">steven111105</a> </li>
+<li>LinkedIn: <a halign="center" valign="center" width="32%" href="https://www.linkedin.com/in/steven-wijaya-99ab34282"> Steven Wijaya </a> </li>
+<li>Email: <a halign="right" valign="center" width="32%" href="mailto:stevenwijaya1111@gmail.com">stevenwijaya1111@gmail.com</a> </li>
+<li>Discord: s_1105</li>
+</b>
