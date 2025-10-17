@@ -1,5 +1,5 @@
 # Hi there, I'm Steven Wijaya 👋
-<p>Im a game programmer from Binus University. I mainly use Unity and C# to develop games. I enjoy making arcade style games with unique gameplays</p>
+<p>I'm a game programmer from Indonesia, currently studying at Binus University. I mainly use Unity and C# to make games. I enjoy making replayable games with unique gameplay.</p>
 
 ---
 # 🎮 My Projects (GIFs might take a bit to load)
